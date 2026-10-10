@@ -1,0 +1,2 @@
+java file handling 
+what inside my curent file named output
